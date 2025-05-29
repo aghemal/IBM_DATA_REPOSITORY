@@ -36,8 +36,9 @@ An **AI-powered Streamlit application** that automates data quality checks in da
 
 ```bash
 # Clone the repository
-git clone https://github.com/aghemal/IBM_DATA_REPOSITORY.git
-cd IBM_DATA_REPOSITORY
+git clone https://github.com/aghemal/AI-Data-Quality-Monitoring-Dashboard.git
+cd AI-Data-Quality-Monitoring-Dashboard
+
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
